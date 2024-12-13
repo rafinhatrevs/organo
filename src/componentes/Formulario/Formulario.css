@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+
+.formulario {
+    margin: 80px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.formulario form {
+    background-color: #F6F6F6;
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.08);
+    padding: 36px 64px;
+    max-width: 80%;
+    border-radius: 20px;
+}
+
+h2 {
+    font-family: "Prata", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 32px;
+}
