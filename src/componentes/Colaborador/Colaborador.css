@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 .colaborador {
+    position: relative;
     width: 280px;
 }
 
@@ -46,4 +47,14 @@
     font-style: normal;
     font-size: 16px;
     line-height: 22px;
+}
+
+.deletar {
+    position: absolute;
+    right: -10px;
+    top: -10px;
+}
+
+.favoritar {
+    margin-top: 20px;
 }
